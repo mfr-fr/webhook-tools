@@ -1,3 +1,5 @@
+
+
 <p align="center">
 <img src="", width="200", height="200">
 </p>
@@ -8,22 +10,30 @@
 - Linux ( Termux, Kali linux...) 
   ```
   git clone https://github.com/mfr-fr/webhook-tools.git
-  cd webhook-tools
-  python webhook-tools
+  cd sms-sender
+  pip install -r requirements.txt
+  python sms-sender.py
   ```
   You can do it all in one command.
   ```
-  git clone https://github.com/mfr-fr/webhook-tools.git && cd webhook-tools && python webhook-tools
+  git clone https://github.com/mfr-fr/webhook-tools.git && cd sms-sender && pip install -r requirements.txt && python sms-sender.py
   ```
 
 - Windows 
   ```
-  You just need to run start-on-windows.bat
+  If this is the first time you run the script you must first run :
+  install-on-windows.bat
+  
+  if you have already installed the dependencies you just have to launch :
+  start-on-windows.bat
   ```
 ##
 -----
 
-
+<h2><p align="center">📷Picture📷</p></h2>
+<p align="center">
+<img src="", width="300", height="300">
+</p>
 
  <h2><p align="center">📋Dependencies📋</p></h2>
 
@@ -50,3 +60,4 @@
 
 ## <h2><p align="center">✏️Author✏️</p></h2>
 * **MFR** - [Github](https://github.com/mfr-fr)
+
