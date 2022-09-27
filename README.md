@@ -12,11 +12,11 @@
   git clone https://github.com/mfr-fr/webhook-tools.git
   cd sms-sender
   pip install -r requirements.txt
-  python sms-sender.py
+  python webhook-tools.py
   ```
   You can do it all in one command.
   ```
-  git clone https://github.com/mfr-fr/webhook-tools.git && cd sms-sender && pip install -r requirements.txt && python sms-sender.py
+  git clone https://github.com/mfr-fr/webhook-tools.git && cd sms-sender && pip install -r requirements.txt && python webhook-tools.py
   ```
 
 - Windows 
