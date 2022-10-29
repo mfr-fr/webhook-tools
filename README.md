@@ -16,7 +16,7 @@
   ```
   You can do it all in one command.
   ```
-  git clone https://github.com/mfr-fr/webhook-tools.git && cd sms-sender && pip install -r requirements.txt && python webhook-tools.py
+  git clone https://github.com/mfr-fr/webhook-tools.git && cd webhook-tools && pip install -r requirements.txt && python webhook-tools.py
   ```
 
 - Windows 
