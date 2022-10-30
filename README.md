@@ -32,7 +32,7 @@
 
 <h2><p align="center">📷Picture📷</p></h2>
 <p align="center">
-<img src="", width="300", height="300">
+<img src="https://media.discordapp.net/attachments/1006288165012766751/1036320093963026542/unknown.png", width="300", height="300">
 </p>
 
  <h2><p align="center">📋Dependencies📋</p></h2>
