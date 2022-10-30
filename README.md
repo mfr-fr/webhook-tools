@@ -1,10 +1,4 @@
 
-
-<p align="center">
-<img src="", width="200", height="200">
-</p>
-
------
 <h2><p align="center">🖥️Installation🖥️</p></h2>
 
 - Linux ( Termux, Kali linux...) 
